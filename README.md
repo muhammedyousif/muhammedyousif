@@ -27,3 +27,24 @@
 </div>
 
 ###
+
+<h2 align="left">My Projects</h2>
+
+###
+
+<div align="left">
+  <h3>Yogi Bear game</h3>
+  <img src="./beargame.png" width="400" alt="Yogi bear" />
+  <p>This project is a sophisticated calculator that handles complex equations and provides graphical output.</p>
+</div>
+
+###
+
+<div align="left">
+  <h3>Weather App</h3>
+  <img src="./app_screenshot2.png" width="400" alt="Weather App Screenshot" />
+  <p>A real-time weather application that provides current conditions and forecasts based on your location.</p>
+</div>
+
+###
+
