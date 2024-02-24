@@ -34,7 +34,7 @@
 
 <div align="left">
   <h3>Yogi Bear game</h3>
-  <img src="./beargame.png" width="700" alt="Yogi bear" />
+  <img src="./beargame.png" width="550" alt="Yogi bear" />
   <p>This is a platformer game where Yogi bear has to collect baskets while not being detected by the guards.</p>
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="left">
   <h3>Spaceship game</h3>
-  <img src="./spaceblackhole.png" width="200" alt="space" />
+  <img src="./spaceblackhole.png" width="250" alt="space" />
   <p>This is a two player game, the winner is who sends half of his ships inside the blackhole</p>
 </div>
 
