@@ -35,15 +35,15 @@
 <div align="left">
   <h3>Yogi Bear game</h3>
   <img src="./beargame.png" width="400" alt="Yogi bear" />
-  <p>This project is a sophisticated calculator that handles complex equations and provides graphical output.</p>
+  <p>This is a platformer game where Yogi bear has to collect baskets while not being detected by the guards.</p>
 </div>
 
 ###
 
 <div align="left">
-  <h3>Weather App</h3>
-  <img src="./app_screenshot2.png" width="400" alt="Weather App Screenshot" />
-  <p>A real-time weather application that provides current conditions and forecasts based on your location.</p>
+  <h3>Spaceship game</h3>
+  <img src="./spaceblackhole.png" width="400" alt="space" />
+  <p>This is a two player game, the winner is who sends half of his ships inside the blackhole</p>
 </div>
 
 ###
