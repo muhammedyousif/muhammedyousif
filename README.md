@@ -46,7 +46,7 @@
 <h2 align="left">Coming Soon</h2>
 <div align="left">
   <h3>Bomberman</h3>
-  <img src="./play.png" width="550" alt="space" />
+  <img src="./play.png" width="550" alt="bomberman" />
 </div>
 
 
