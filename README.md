@@ -43,7 +43,7 @@
 </div>
 
 ###
-<h2 align="left">Coming Soon</h2>
+<h2 align="left">In Progress</h2>
 <div align="left">
   <h3>Bomberman</h3>
   <img src="./play.png" width="550" alt="bomberman" />
