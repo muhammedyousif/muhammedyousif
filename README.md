@@ -47,7 +47,7 @@
 <div align="left">
   <h3>Bomberman</h3>
   <img src="./play.png" width="550" alt="bomberman" />
-  <p>Being made with Java, in this game players will be able to host servers for up to 4 players</p>
+  <p>Being developed with Java, in this game players will be able to host servers for up to 4 players</p>
 
 </div>
 
