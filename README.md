@@ -25,7 +25,6 @@
 ###
 
 <h2 align="left">My Projects</h2>
-###
 
 <div align="left">
   <h3>Bomberman</h3>
