@@ -28,7 +28,7 @@
 
 <div align="left">
   <h3>Bomberman</h3>
-  <img src="./play.png" width="550" alt="bomberman" />
+  <img src="./play2.png" width="550" alt="bomberman" />
   <p>Developed using Java (Maven), this game challenges you to eliminate all NPCs. In multiplayer mode, the goal is to be the last player standing. The game has a CICD pipeline, uses Git feature branching for organized code development, and supports peer-to-peer multiplayer gameplay.
 </p>
 
