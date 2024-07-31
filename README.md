@@ -18,9 +18,8 @@
 ###
 
 <div align="left">
-  <a href="https://codefolio2.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammedyousif&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedyousif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
