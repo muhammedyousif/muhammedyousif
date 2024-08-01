@@ -18,7 +18,7 @@
 ###
 
 <div align="left">
-    <img src="[https://github-readme-umber.vercel.app/api/username=muhammedyousif&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph](https://github-readme-stats.vercel.app/api/top-langs?username=muhammedyousif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph")"  />
+    <img src="https://github-readme-umber.vercel.app/api/username=muhammedyousif&theme=dark&hide_border=true&include_all_commits=false" height="150" alt="stats graph](https://github-readme-stats.vercel.app/api/top-langs?username=muhammedyousif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph")"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedyousif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
