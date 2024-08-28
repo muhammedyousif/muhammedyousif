@@ -26,6 +26,10 @@
 ###
 
 <h2 align="left">My Projects</h2>
+<div align="left">
+  <h3>Cutting Up Simulator</h3>
+  <img src="./play2.png" width="550" alt="bomberman" />
+</div>
 
 <div align="left">
   <h3>Bomberman</h3>
