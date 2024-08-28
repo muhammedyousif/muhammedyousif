@@ -28,7 +28,10 @@
 <h2 align="left">My Projects</h2>
 <div align="left">
   <h3>Cutting Up Simulator</h3>
-  <img src="./play2.png" width="550" alt="bomberman" />
+  <img src="./carinmenu.png" width="550" alt="car" />
+    <img src="./dealership.png" width="550" alt="car" />
+  <img src="./driving.png" width="550" alt="car" />
+
 </div>
 
 <div align="left">
